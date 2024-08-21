@@ -11,7 +11,6 @@ their path when prompted or pass them in as as arguments (more info below).
 ## How to Compile/Run
 
 - Install Python (tested on 3.11)
-- For usage instructions, use
 - Sample commands:
   - Usage instructions:
     - `python main.py -h`
